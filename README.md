@@ -1,3 +1,5 @@
+NOTE: fork of [kimroen/ember-cli-document-title](https://github.com/kimroen/ember-cli-document-title) with possibility to use inside antoher ember addons.
+
 # Sane Document Title [![Build Status](https://travis-ci.org/kimroen/ember-cli-document-title.svg?branch=master)](https://travis-ci.org/kimroen/ember-cli-document-title) [![Ember Observer Score](http://emberobserver.com/badges/ember-cli-document-title.svg)](http://emberobserver.com/addons/ember-cli-document-title) [![Code Climate](https://codeclimate.com/github/kimroen/ember-cli-document-title/badges/gpa.svg)](https://codeclimate.com/github/kimroen/ember-cli-document-title)
 This addon adds sane `document.title` integration to your ember app.
 
